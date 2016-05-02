@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/main_bg2"
+    tools:context="com.kk.app.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:alpha="0.4"
+        android:background="@color/white"></RelativeLayout>
+
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:alpha="0.8"
+        android:gravity="center"
+        android:text="个人简历"
+        android:textSize="18sp" />
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/main_title"></android.support.v4.view.ViewPager>
+
+    <RelativeLayout
+        android:id="@+id/first_rl"
+        style="@style/main_left_bq">
+
+        <com.kk.app.ParallogramRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4" />
+
+        <ImageView
+            android:id="@+id/first_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:alpha="0.5"
+            android:padding="2dp"
+            android:src="@mipmap/user" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/first_img"
+            android:gravity="right|center_vertical"
+            android:text="个人信息" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/second_rl"
+        style="@style/main_left_bq"
+        android:layout_below="@id/first_rl">
+
+        <com.kk.app.ParallogramRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4" />
+
+        <ImageView
+            android:id="@+id/second_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:alpha="0.5"
+            android:padding="2dp"
+            android:src="@mipmap/work" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/second_img"
+            android:gravity="right|center_vertical"
+            android:text="工作经历" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/third_rl"
+        style="@style/main_left_bq"
+        android:layout_below="@id/second_rl">
+
+        <com.kk.app.ParallogramRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4" />
+
+        <ImageView
+            android:id="@+id/third_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:alpha="0.5"
+            android:padding="2dp"
+            android:src="@mipmap/plane" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/third_img"
+            android:gravity="right|center_vertical"
+            android:text="教育经历" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/forth_rl"
+        style="@style/main_left_bq"
+        android:layout_below="@id/third_rl">
+
+        <com.kk.app.ParallogramRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4" />
+
+        <ImageView
+            android:id="@+id/forth_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:alpha="0.5"
+            android:padding="2dp"
+            android:src="@mipmap/star" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/forth_img"
+            android:gravity="right|center_vertical"
+            android:text="爱好特长" />
+    </RelativeLayout>
+
+</RelativeLayout>
