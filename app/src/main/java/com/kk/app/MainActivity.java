@@ -56,7 +56,7 @@ public class MainActivity extends FragmentActivity {
 //
 //            @Override
 //            public boolean onTouch(View v, MotionEvent event) {
-//                return false;
+//                return true;
 //            }
 //
 //        });
