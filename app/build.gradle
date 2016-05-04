@@ -18,6 +18,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
 }
 
 dependencies {
@@ -25,5 +30,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:support-v4:23.3.0'
     compile project(':circleimageview')
-    compile 'com.android.support:appcompat-v7:24.0.0-alpha2'
+    compile project(':cameraLibrary')
+    compile(name:'folding-cell-1.0.0', ext:'aar')
 }

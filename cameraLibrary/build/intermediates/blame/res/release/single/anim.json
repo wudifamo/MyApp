@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/anim/focusview_show.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/anim/focusview_show.xml"
+    },
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/anim/tempview_show.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/anim/tempview_show.xml"
+    }
+]

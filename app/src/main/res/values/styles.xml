@@ -1,11 +1,18 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
     </style>
 
-    <style name="main_left_bq" >
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="main_left_bq">
         <item name="android:layout_width">180dp</item>
         <item name="android:layout_height">30dp</item>
         <item name="android:layout_alignParentLeft">true</item>
@@ -15,5 +22,13 @@
 
 
     </style>
+
+    <style name="Transparent">
+
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        　　
+    </style>
+
 
 </resources>

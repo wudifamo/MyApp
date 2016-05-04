@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <com.ramotion.foldingcell.FoldingCell xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/folding_cell"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="3"
-        android:textSize="22dp" />
+        android:layout_height="wrap_content">
+        ​
 
-</LinearLayout>
+        <FrameLayout
+            android:id="@+id/cell_content_view"
+            android:layout_width="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_dark"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:text="123123123123"
+                android:layout_height="250dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:text="123fff3"
+                android:layout_height="250dp" />
+        </FrameLayout>
+        ​
+
+        <FrameLayout
+            android:id="@+id/cell_title_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:text="fffffffff"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark" />
+        </FrameLayout>
+        ​
+    </com.ramotion.foldingcell.FoldingCell>
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/androidTest/debug/layout-port/item_album_grid.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/bundles/debug/res/layout-port/item_album_grid.xml"
+    },
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/androidTest/debug/layout-port/item_album_pager.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/bundles/debug/res/layout-port/item_album_pager.xml"
+    },
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/androidTest/debug/layout-port/video_bottom_bar.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/bundles/debug/res/layout-port/video_bottom_bar.xml"
+    },
+    {
+        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/androidTest/debug/layout-port/cameracontainer.xml",
+        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/bundles/debug/res/layout-port/cameracontainer.xml"
+    }
+]

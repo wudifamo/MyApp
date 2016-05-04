@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cameraLibrary" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/FileOperateUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view/AlbumGridView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view/AlbumViewPager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view/FilterImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view/MatrixImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/album/view/ThumbnaiImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/camera/view" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/imageloader" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/imageloader/displayer" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cameraLibrary/src/main/java/com/linj/video/view" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
