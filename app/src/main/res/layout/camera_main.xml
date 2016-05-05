@@ -14,14 +14,30 @@
         android:src="@mipmap/ufo"
         android:visibility="invisible" />
 
-    <com.linj.camera.view.CameraContainer
+    <ImageView
+        android:id="@+id/camera_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@mipmap/light2" />
 
+    <com.linj.camera.view.CameraContainer
         android:id="@+id/container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
         android:layout_marginLeft="100dp"
         android:layout_marginRight="100dp"
         android:layout_marginTop="200dp"
-        android:layout_marginBottom="100dp"
         android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/camera_people"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="-100dp"
+        android:layout_alignParentBottom="true"
+        android:src="@mipmap/people" />
 </RelativeLayout>

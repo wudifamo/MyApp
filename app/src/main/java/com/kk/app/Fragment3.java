@@ -35,15 +35,22 @@ public class Fragment3 extends Fragment {
 //            }
 //        });
         final FoldingCell fc = (FoldingCell) viewFragment.findViewById(R.id.folding_cell);
-        fc.initialize(5000, Color.WHITE,4);
+        final FoldingCell fc1 = (FoldingCell) viewFragment.findViewById(R.id.folding_cell1);
+        fc.initialize(1500, Color.WHITE, 4);
         // attach click listener to folding cell
-        fc.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                fc.toggle(false);
-            }
-        });
+        fc.setOnClickListener(new expendListener());
+        fc1.setOnClickListener(new expendListener());
         return viewFragment;
     }
+
+    private class expendListener implements View.OnClickListener {
+        @Override
+        public void onClick(View v) {
+            FoldingCell foldingCell = (FoldingCell) v;
+            foldingCell.toggle(false);
+
+        }
+    }
+
 
 }

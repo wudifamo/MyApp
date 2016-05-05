@@ -1,9 +1,7 @@
 package com.kk.app;
 
-import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,7 +18,7 @@ public class Fragment2 extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.card_layout, null);
+        View rootView = inflater.inflate(R.layout.fragment2, null);
         initView(rootView);
         return rootView;
     }
@@ -93,10 +91,10 @@ public class Fragment2 extends Fragment {
 
         CardDataItem dataItem3=new CardDataItem();
         dataItem3.language = "其他技能包";
-        dataItem3.content="Photoshop:满足日常生活需求  \n" +
+        dataItem3.content="Photoshop:可抵半个美工  \n" +
                 "AfterEffects:会做Dota Top10集锦\n"+
         "Github:星星数多达1个(- -)\n"+
-        "stackflow:英文版百度知道";
+        "stackoverflow:英文版百度知道";
 
         dataItem3.imgId=R.mipmap.l_bg1;
 

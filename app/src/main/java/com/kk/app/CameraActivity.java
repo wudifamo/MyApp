@@ -17,9 +17,11 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.AccelerateInterpolator;
+import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.AnticipateInterpolator;
 import android.view.animation.LinearInterpolator;
+import android.view.animation.OvershootInterpolator;
 import android.view.animation.ScaleAnimation;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -30,10 +32,11 @@ import com.linj.camera.view.CameraView;
 
 public class CameraActivity extends Activity {
     private int width, height;
-    private ImageView imgIv;
+    private ImageView imgIv, lightIv, peopleIv;
     private ValueAnimator valueAnimator;
     private CameraContainer mContainer;
     private RelativeLayout camera_mainrl;
+    private boolean inited=false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,11 +48,13 @@ public class CameraActivity extends Activity {
         width = wm.getDefaultDisplay().getWidth();
         height = (int) (wm.getDefaultDisplay().getHeight() * 3 / 2f);
         imgIv = (ImageView) findViewById(R.id.camera_ufo);
+        lightIv = (ImageView) findViewById(R.id.camera_light);
+        peopleIv = (ImageView) findViewById(R.id.camera_people);
         camera_mainrl = (RelativeLayout) findViewById(R.id.camera_mainrl);
         camera_mainrl.getBackground().setAlpha(40);
         mContainer = (CameraContainer) findViewById(R.id.container);
 
-        valueAnimator = ValueAnimator.ofObject(new BezierEvaluator(), new PointF(0, 0), new PointF((width / 2 - 50), 100));
+        valueAnimator = ValueAnimator.ofObject(new BezierEvaluator(), new PointF(0, 0), new PointF((width / 2 - 55), 100));
         valueAnimator.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
             @Override
             public void onAnimationUpdate(ValueAnimator animation) {
@@ -80,7 +85,8 @@ public class CameraActivity extends Activity {
 
             @Override
             public void onAnimationEnd(Animator animation) {
-                mContainer.setVisibility(View.VISIBLE);
+                lightIv.setVisibility(View.VISIBLE);
+                blinkImage();
             }
 
             @Override
@@ -127,6 +133,56 @@ public class CameraActivity extends Activity {
                     + 3 * oneMinusT * t * t * (point2.y)
                     + t * t * t * (point3.y);
             return point;
+        }
+    }
+
+    private void blinkImage() {
+        final Animation animation = new AlphaAnimation(1, 0); // Change alpha from fully visible to invisible
+        animation.setDuration(100); // duration - half a second
+        animation.setInterpolator(new LinearInterpolator()); // do not alter animation rate
+        animation.setRepeatCount(5); // Repeat animation infinitely
+        animation.setRepeatMode(Animation.REVERSE); //
+        animation.setAnimationListener(new Animation.AnimationListener() {
+            @Override
+            public void onAnimationStart(Animation animation) {
+
+            }
+
+            @Override
+            public void onAnimationEnd(Animation animation) {
+                mContainer.setVisibility(View.VISIBLE);
+                sView();
+                inited=true;
+            }
+
+            @Override
+            public void onAnimationRepeat(Animation animation) {
+
+            }
+        });
+        lightIv.setAnimation(animation);
+        animation.start();
+        lightIv.startAnimation(animation);
+    }
+
+    private void sView() {
+        ValueAnimator valueAnimator0 = ValueAnimator.ofFloat(0, -200);
+        valueAnimator0.setTarget(peopleIv);
+        valueAnimator0.setDuration(500);
+        valueAnimator0.setInterpolator(new LinearInterpolator());
+        valueAnimator0.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
+            @Override
+            public void onAnimationUpdate(ValueAnimator animation) {
+                peopleIv.setTranslationY((Float) animation.getAnimatedValue());
+            }
+        });
+        valueAnimator0.start();
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (inited) {
+            finish();
         }
     }
 }

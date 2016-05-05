@@ -10,7 +10,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="400dp">
+        android:layout_height="390dp">
 
         <ImageView
             android:id="@+id/bg_iv"
@@ -21,10 +21,10 @@
         <TextView
             android:id="@+id/card_content"
             android:layout_width="match_parent"
-            android:padding="5dp"
             android:layout_height="match_parent"
             android:gravity="center"
             android:lineSpacingMultiplier="1.5"
+            android:padding="5dp"
             android:textColor="@color/white"
             android:textSize="18sp" />
 
@@ -33,10 +33,9 @@
 
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:background="@drawable/back_shape"
-        android:orientation="horizontal"
-        android:padding="10dp">
+        android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="0dp"
@@ -47,7 +46,7 @@
             <TextView
                 android:id="@+id/card_user_name"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:textColor="#111"
                 android:textSize="18sp" />

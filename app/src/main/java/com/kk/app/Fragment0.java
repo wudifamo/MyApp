@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 
 public class Fragment0 extends Fragment {
     private View viewFragment;
@@ -21,6 +22,8 @@ public class Fragment0 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         viewFragment = inflater.inflate(R.layout.fragment0, null);
+        LinearLayout frame0_mainrl = (LinearLayout) viewFragment.findViewById(R.id.frame0_mainrl);
+        frame0_mainrl.getBackground().setAlpha(76);
 
         return viewFragment;
     }

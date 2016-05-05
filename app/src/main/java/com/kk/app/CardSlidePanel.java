@@ -52,7 +52,7 @@ public class CardSlidePanel extends ViewGroup {
     private CardSwitchListener cardSwitchListener; // 回调接口
     private List<CardDataItem> dataList; // 存储的数据链表
     private int isShowing = 0; // 当前正在显示的小项
-    private View leftBtn, rightBtn;
+    private View rightBtn;
     private boolean btnLock = false;
     private GestureDetectorCompat moveDetector;
     private OnClickListener btnListener;
@@ -80,7 +80,7 @@ public class CardSlidePanel extends ViewGroup {
         btnListener = new OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (view instanceof ImageView) {
+                if (view != rightBtn) {
                     // 点击的是卡片
                     if (null != cardSwitchListener && view.getScaleX() > 1 - SCALE_STEP) {
                         cardSwitchListener.onItemClick(view, isShowing);
@@ -89,11 +89,7 @@ public class CardSlidePanel extends ViewGroup {
                     // 点击的是bottomLayout里面的一些按钮
                     btnLock = true;
                     int type = -1;
-                    if (view == leftBtn) {
-                        type = VANISH_TYPE_LEFT;
-                    } else if (view == rightBtn) {
-                        type = VANISH_TYPE_RIGHT;
-                    }
+                    type = VANISH_TYPE_RIGHT;
                     vanishOnBtnClick(type);
                 }
             }
@@ -112,7 +108,7 @@ public class CardSlidePanel extends ViewGroup {
         int num = getChildCount();
         for (int i = num - 1; i >= 0; i--) {
             View childView = getChildAt(i);
-            if (childView.getId() == R.id.card_bottom_layout) {
+            if (childView.getId() == R.id.card_right_btn) {
                 bottomLayout = childView;
                 initBottomLayout();
             } else {
@@ -124,10 +120,8 @@ public class CardSlidePanel extends ViewGroup {
     }
 
     private void initBottomLayout() {
-        leftBtn = bottomLayout.findViewById(R.id.card_left_btn);
         rightBtn = bottomLayout.findViewById(R.id.card_right_btn);
 
-        leftBtn.setOnClickListener(btnListener);
         rightBtn.setOnClickListener(btnListener);
     }
 
