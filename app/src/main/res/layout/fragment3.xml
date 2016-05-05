@@ -399,9 +399,9 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="45dp"
-                    android:background="@color/main_highlight_text_color"
+                    android:background="@color/cadetblue"
                     android:gravity="center"
-                    android:text="Dota"
+                    android:text="自我评价"
                     android:textColor="@color/white"
                     android:textSize="22dp"
                     android:textStyle="bold" />
@@ -410,17 +410,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@mipmap/slak" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="right"
-                    android:layout_marginTop="-25dp"
-                    android:text="假腿战鼓满天飞"
-                    android:textColor="@color/white"
-                    android:textSize="18dp"
-                    android:textStyle="bold" />
+                    android:src="@mipmap/computer" />
 
 
                 <TextView
@@ -429,15 +419,69 @@
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="5dp"
                     android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/stars"
-                    android:text="还记得使用的第一个英雄是龙骑，第一个超神的是海民"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="    同时掌握Android/ios开发技能，负责两端同时开发，也曾参与PC端BS项目和微信公众平台，熟练运用两端原生组件、SDK以及自定义控件，熟悉两端项目从创建到打包发布的整个流程，AppStore有4个独立完成项目目前在售，熟练运用CocoaPod和Github，具有独立开发能力和经验，喜欢尝试新事物和挑战，抗压能力和自主学习能力强。"
                     android:textSize="18dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
-                    android:text="却不知道曾经一起Dota的兄弟会不会记得我"
+                    android:text="以上和我简历上写的一样，不看也罢"
+                    android:textColor="@color/darkgray"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="10dp"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="专注移动端20年"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:text="未来20年"
+                    android:textColor="@color/darkgray"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="10dp"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="非要让我做后台也是可以的"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:text="宝宝心里苦，可是宝宝不说"
+                    android:textColor="@color/darkgray"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="10dp"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="更喜欢Android还是IOS？"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:text="我喜欢爸爸还是妈妈？"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
@@ -446,15 +490,15 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/stars"
-                    android:text="遇见过一次反补我方下路兵营的风行者"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="工作清闲时会研究一些好玩的Demo"
                     android:textSize="18dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
-                    android:text="还好世界之树当时没残血"
+                    android:text="视觉效果越炫酷越好"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
@@ -463,33 +507,34 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/stars"
-                    android:text="也参加过学校群组织的比赛"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="周末加班可以，但是不能接受6工作日"
                     android:textSize="18dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
-                    android:text="只拿了亚军，差评"
+                    android:text="《论5工作日＋周六加班和6工作日的区别》"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
+                    android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
                     android:layout_marginTop="5dp"
                     android:scaleType="centerCrop"
-                    android:src="@mipmap/dotazbs" />
+                    android:src="@mipmap/workspace" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="5dp"
-                    android:text="宣传视频看一次燃一次，没错作者正是在下"
+                    android:text="有时3台来回切"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
@@ -498,15 +543,15 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/basketball_ic"
-                    android:text="斯温大炮三狂战"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="很享受多台设备同时操作的忙碌感"
                     android:textSize="18dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
-                    android:text="卡尔刷新二十连"
+                    android:text="因为看上去会显得很高端的样子"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
@@ -515,8 +560,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/basketball_ic"
-                    android:text="这一行是凑字数的"
+                    android:drawableLeft="@mipmap/gwb"
+                    android:text="最后，我的心愿"
                     android:textSize="18dp" />
 
                 <TextView
@@ -524,7 +569,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
                     android:paddingBottom="10dp"
-                    android:text="因为content高一点会显得更好看一些"
+                    android:text="也是世界和平。。。"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
@@ -546,10 +591,32 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
                     android:layout_marginBottom="5dp"
-                    android:src="@mipmap/tag_dota2" />
+                    android:layout_marginLeft="-3dp"
+                    android:src="@mipmap/aboutme" />
             </FrameLayout>
             ​
         </com.ramotion.foldingcell.FoldingCell>
+
+        <FrameLayout
+            android:id="@+id/frame3_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/blackhole" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="-5dp"
+                android:src="@mipmap/sglf" />
+        </FrameLayout>
     </LinearLayout>
 
 
