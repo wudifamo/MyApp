@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/layout-port/item_album_grid.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/layout-port/item_album_grid.xml"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\item_album_grid.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\item_album_grid.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/layout-port/video_bottom_bar.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/layout-port/video_bottom_bar.xml"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\cameracontainer.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\cameracontainer.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/layout-port/item_album_pager.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/layout-port/item_album_pager.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\video_bottom_bar.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\video_bottom_bar.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/layout-port/cameracontainer.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/layout-port/cameracontainer.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\cameracontainer.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\cameracontainer.xml"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\item_album_grid.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\item_album_grid.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\video_bottom_bar.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\video_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\item_album_pager.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\item_album_pager.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\layout-port\\item_album_pager.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\layout-port\\item_album_pager.xml"
     }
 ]

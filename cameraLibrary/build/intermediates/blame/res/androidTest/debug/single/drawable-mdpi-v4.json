@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     }
 ]

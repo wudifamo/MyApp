@@ -132,7 +132,7 @@
             android:layout_height="match_parent"
             android:layout_toLeftOf="@+id/forth_img"
             android:gravity="right|center_vertical"
-            android:text="爱好特长" />
+            android:text="兴趣爱好" />
     </RelativeLayout>
 
 </RelativeLayout>

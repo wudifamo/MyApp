@@ -1,6 +1,10 @@
 [
     {
-        "outputFile": "/Users/sun.aoyang/Desktop/Android/MyApp/circleimageview/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "outputFile": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\circleimageview\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": []
+    },
+    {
+        "outputFile": "E:\\Android-Developer\\Android-workspace\\MyApp\\circleimageview\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
         "map": []
     }
 ]

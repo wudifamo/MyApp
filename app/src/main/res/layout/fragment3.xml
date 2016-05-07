@@ -246,7 +246,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="right"
                     android:layout_marginTop="-25dp"
-                    android:text="假腿战鼓满天飞"
+                    android:text="遇到BUG"
+                    android:layout_marginRight="5dp"
                     android:textColor="@color/white"
                     android:textSize="18dp"
                     android:textStyle="bold" />
@@ -467,58 +468,6 @@
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="15dp"
-                    android:layout_marginRight="5dp"
-                    android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/gwb"
-                    android:text="更喜欢Android还是IOS？"
-                    android:textSize="18dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="25dp"
-                    android:text="我喜欢爸爸还是妈妈？"
-                    android:textColor="@color/darkgray"
-                    android:textSize="16dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="15dp"
-                    android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/gwb"
-                    android:text="工作清闲时会研究一些好玩的Demo"
-                    android:textSize="18dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="25dp"
-                    android:text="视觉效果越炫酷越好"
-                    android:textColor="@color/darkgray"
-                    android:textSize="16dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="15dp"
-                    android:layout_marginTop="10dp"
-                    android:drawableLeft="@mipmap/gwb"
-                    android:text="周末加班可以，但是不能接受6工作日"
-                    android:textSize="18dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="25dp"
-                    android:text="《论5工作日＋周六加班和6工作日的区别》"
-                    android:textColor="@color/darkgray"
-                    android:textSize="16dp" />
-
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
@@ -532,26 +481,17 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="5dp"
-                    android:text="有时3台来回切"
-                    android:textColor="@color/darkgray"
-                    android:textSize="16dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="10dp"
                     android:drawableLeft="@mipmap/gwb"
-                    android:text="很享受多台设备同时操作的忙碌感"
+                    android:text="工作环境外网一定要给力"
                     android:textSize="18dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="25dp"
-                    android:text="因为看上去会显得很高端的样子"
+                    android:text="百度才是最好的老师"
                     android:textColor="@color/darkgray"
                     android:textSize="16dp" />
 

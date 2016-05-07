@@ -67,7 +67,7 @@ public class MainActivity extends FragmentActivity {
                 RelativeLayout.LayoutParams lp = (RelativeLayout.LayoutParams) first_rl
                         .getLayoutParams();
 
-                Log.d("tag", String.valueOf(position) + ", " + String.valueOf(positionOffset));
+             //   Log.d("tag", String.valueOf(position) + ", " + String.valueOf(positionOffset));
             }
 
             @Override

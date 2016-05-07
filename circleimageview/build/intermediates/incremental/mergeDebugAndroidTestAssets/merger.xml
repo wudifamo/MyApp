@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="/Users/sun.aoyang/Desktop/Android/MyApp/circleimageview/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/sun.aoyang/Desktop/Android/MyApp/circleimageview/src/androidTest/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="E:\Android-Developer\Android-workspace\MyApp\circleimageview\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\Android-Developer\Android-workspace\MyApp\circleimageview\src\androidTest\assets"/></dataSet></merger>

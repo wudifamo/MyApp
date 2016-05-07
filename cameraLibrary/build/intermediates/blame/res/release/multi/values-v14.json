@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/values-v14/values-v14.xml",
+        "outputFile": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/values-v14/styles.xml",
+                    "file": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -20,6 +20,32 @@
                         "endLine": 9,
                         "endColumn": 12,
                         "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 375
                     }
                 }
             }

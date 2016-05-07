@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/drawable/btn_play_vedio_b.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable/btn_play_vedio_b.xml"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\picture_setting_album_checkbox.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\picture_setting_album_checkbox.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/drawable/btn_play_vedio.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable/btn_play_vedio.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\progressbar_bg.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/drawable/progressbar_bg.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable/progressbar_bg.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_vedio_b.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\btn_play_vedio_b.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/drawable/picture_setting_album_checkbox.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable/picture_setting_album_checkbox.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_vedio.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\btn_play_vedio.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_vedio.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\btn_play_vedio.xml"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\picture_setting_album_checkbox.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\picture_setting_album_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\progressbar_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_vedio_b.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable\\btn_play_vedio_b.xml"
     }
 ]

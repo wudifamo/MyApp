@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/menu/main.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\menu\\main.xml"
     }
 ]

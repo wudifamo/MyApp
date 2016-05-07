@@ -123,7 +123,7 @@
                         android:layout_marginTop="30dp"
                         android:layout_toRightOf="@id/timeline_center"
                         android:alpha="0.8"
-                        android:text="辽宁师范大学移动办公系统 \n Android、IOS客户端"
+                        android:text="辽宁师范大学移动办公系统\n Android、IOS客户端"
                         android:textColor="@color/white" />
                 </RelativeLayout>
 
@@ -164,7 +164,7 @@
                         android:layout_toLeftOf="@id/timeline_center1"
                         android:alpha="0.8"
                         android:gravity="right"
-                        android:text="辽宁师范大学移动办公系统\n Android、IOS客户端"
+                        android:text="公司内部移动办公系统\nAndroid、IOS客户端"
                         android:textColor="@color/white" />
 
                     <de.hdodenhof.circleimageview.CircleImageView
@@ -218,7 +218,7 @@
                         android:layout_marginTop="30dp"
                         android:layout_toRightOf="@id/timeline_center2"
                         android:alpha="0.8"
-                        android:text="大连理工大学城市学院毕业\n获得学士学位并正式入职"
+                        android:text="大连理工大学城市学院毕业\n取得学士学位并正式入职"
                         android:textColor="@color/white" />
                 </RelativeLayout>
 
@@ -353,7 +353,7 @@
                         android:layout_toLeftOf="@id/timeline_center5"
                         android:alpha="0.8"
                         android:gravity="right"
-                        android:text="东北财经大学移动办公系统 \n Android、IOS客户端"
+                        android:text="东北财经大学移动办公系统\n Android、IOS客户端"
                         android:textColor="@color/white" />
 
                     <de.hdodenhof.circleimageview.CircleImageView
@@ -407,7 +407,7 @@
                         android:layout_marginTop="30dp"
                         android:layout_toRightOf="@id/timeline_center6"
                         android:alpha="0.8"
-                        android:text="大连北方科技企业孵化基地 \n Android、IOS客户端"
+                        android:text="大连北方科技企业孵化基地\n Android、IOS客户端"
                         android:textColor="@color/white" />
                 </RelativeLayout>
                 <RelativeLayout
@@ -447,7 +447,7 @@
                         android:layout_toLeftOf="@id/timeline_center7"
                         android:alpha="0.8"
                         android:gravity="right"
-                        android:text="辽师学生日常行为管理系统 \n Android、IOS客户端"
+                        android:text="辽师学生日常行为管理系统\n Android、IOS客户端"
                         android:textColor="@color/white" />
 
                     <de.hdodenhof.circleimageview.CircleImageView

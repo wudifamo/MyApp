@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/anim/tempview_show.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/anim/tempview_show.xml"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\anim\\focusview_show.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\anim\\focusview_show.xml"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/debug/anim/focusview_show.xml",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/anim/focusview_show.xml"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\anim\\tempview_show.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\anim\\tempview_show.xml"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\anim\\focusview_show.xml",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\anim\\focusview_show.xml"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\debug\\anim\\tempview_show.xml",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\anim\\tempview_show.xml"
     }
 ]

@@ -1,66 +1,130 @@
 [
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/video_player_bg.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/video_player_bg.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\thumb_guide_tips_new.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\thumb_guide_tips_new.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/video_detail_player_start.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/video_detail_player_start.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focused.9.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focused.9.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/gg_ic_video_play_on.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/gg_ic_video_play_on.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_pause_bg.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_pause_bg.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/gg_ic_video_play.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/gg_ic_video_play.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_preselected.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_preselected.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/albumset_selected.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/albumset_selected.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_error.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_error.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_error.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/ic_error.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_preselected.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_preselected.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/thumb_guide_tips_new.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/thumb_guide_tips_new.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\thumb_guide_tips_new.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\thumb_guide_tips_new.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/focus_focus_failed.9.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/focus_focus_failed.9.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_pause.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_pause.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/progressbar_thumb_record_mix.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/progressbar_thumb_record_mix.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progressbar_thumb_record_mix.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\progressbar_thumb_record_mix.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/albumset_preselected.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/albumset_preselected.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_player_bg.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_player_bg.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_stub.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/ic_stub.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/video_detail_player_pause.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/video_detail_player_pause.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/video_pause_bg.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/video_pause_bg.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_rec.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/icon_rec.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/icon_rec.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_start.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_start.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/focus_focused.9.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/focus_focused.9.png"
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progressbar_thumb_record_mix.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\progressbar_thumb_record_mix.png"
     },
     {
-        "merged": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/build/intermediates/res/merged/release/drawable-hdpi-v4/focus_focusing.9.png",
-        "source": "/Users/sun.aoyang/Desktop/Android/MyApp/cameraLibrary/src/main/res/drawable-hdpi/focus_focusing.9.png"
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_player_bg.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_player_bg.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focus_failed.9.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focus_failed.9.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_selected.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_selected.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_error.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focus_failed.9.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focus_failed.9.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play_on.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play_on.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focusing.9.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focusing.9.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focused.9.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focused.9.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play_on.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play_on.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_rec.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_selected.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_selected.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_pause_bg.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_pause_bg.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focusing.9.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focusing.9.png"
+    },
+    {
+        "merged": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_pause.png",
+        "source": "E:\\Users\\sun.aoyang\\Desktop\\Android\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_pause.png"
+    },
+    {
+        "merged": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_start.png",
+        "source": "E:\\Android-Developer\\Android-workspace\\MyApp\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_start.png"
     }
 ]
